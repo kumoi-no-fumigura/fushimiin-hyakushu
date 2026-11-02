@@ -1,8 +1,8 @@
-# 伏見院御百首（列聖全集本）（ふしみいんおんひゃくしゅ）
+# 伏見院御百首（列聖全集 底本）（ふしみいんおんひゃくしゅ）
 
 雲居の文庫（くもゐのふみぐら）の一作品です。著作権の保護期間が満了した刊本から起こした本文を、誰でも読み・使い・直せるように置いています。
 
-**サイトで読む：[伏見院御百首（列聖全集本）（雲居の文庫（くもゐのふみぐら））](https://informanellica.com/kumoi-no-fumigura/read.html?work=ressei-fushimiin-hyakushu)**（訳との対訳、原本の画像の表示、修正案の送信ができます）
+**サイトで読む：[伏見院御百首（列聖全集 底本）（雲居の文庫（くもゐのふみぐら））](https://informanellica.com/kumoi-no-fumigura/read.html?work=ressei-fushimiin-hyakushu)**（訳との対訳、原本の画像の表示、修正案の送信ができます）
 
 | | |
 |---|---|
